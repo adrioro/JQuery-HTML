@@ -1,10 +1,10 @@
-.paragraph1, .paragraph2{
+.paragraph1, .paragraph2, .paragraph3, .paragraph4{
   width: 450px;
   border:2px solid black;
   padding: 12px;
   margin: 9px;
 }
-#button2{
+#button2, #button3{
   padding:9px;
   border:3px solid gray;
   margin: 9px;
