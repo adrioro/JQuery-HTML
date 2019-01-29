@@ -1,5 +1,11 @@
-.paragraph1{
+.paragraph1, .paragraph2{
   width: 450px;
   border:2px solid black;
   padding: 12px;
+  margin: 9px;
+}
+#button2{
+  padding:9px;
+  border:3px solid gray;
+  margin: 9px;
 }
